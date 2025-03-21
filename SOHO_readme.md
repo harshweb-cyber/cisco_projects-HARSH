@@ -77,5 +77,6 @@ Router(config-if)# no broadcast-ssid
 ## **Conclusion**
 SOHO networking ensures **efficient and secure** connectivity for small businesses and home offices. Configuring VLANs, DHCP, and SSIDs properly helps **optimize performance and security**.
 
-Would you like to see a **Packet Tracer simulation** for SOHO networks? 🚀
+![image](https://github.com/user-attachments/assets/f40c4270-ba5d-4df6-aa0a-f0daded4a8dd)
+
 
